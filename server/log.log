@@ -1,0 +1,24 @@
+[INFO] 14:41:52:697 Servidor/(43306:43306): Servidor listo para recibir al cliente
+[INFO] 14:42:01:153 Servidor/(43306:43306): Se conecto un cliente!
+[INFO] 14:42:01:157 Servidor/(43306:43306): Me llego el mensaje valor
+[INFO] 14:42:25:858 Servidor/(43306:43306): Me llegaron los siguientes valores:
+
+[INFO] 14:42:25:859 Servidor/(43306:43306): Hola
+[INFO] 14:42:25:859 Servidor/(43306:43306): Como va
+[INFO] 14:42:25:859 Servidor/(43306:43306): Todo bien?
+[INFO] 14:42:25:859 Servidor/(43306:43306): Xd
+[ERROR] 14:42:25:859 Servidor/(43306:43306): Un cliente se desconecto.
+[INFO] 03:52:30:060 Servidor/(4400:4400): Servidor listo para recibir al cliente
+[INFO] 03:52:48:280 Servidor/(4400:4400): Se conecto un cliente!
+[INFO] 03:52:48:281 Servidor/(4400:4400): Me llego el mensaje valor
+[INFO] 03:53:02:284 Servidor/(4400:4400): Me llegaron los siguientes valores:
+
+[ERROR] 03:53:02:285 Servidor/(4400:4400): Un cliente se desconecto.
+[INFO] 04:33:57:800 Servidor/(5145:5145): Servidor listo para recibir al cliente
+[ERROR] 04:34:15:153 Servidor/(5145:5145): Un cliente se desconecto.
+[INFO] 04:35:20:498 Servidor/(5191:5191): Servidor listo para recibir al cliente
+[ERROR] 04:35:28:359 Servidor/(5191:5191): Un cliente se desconecto.
+[INFO] 04:36:03:651 Servidor/(5227:5227): Servidor listo para recibir al cliente
+[ERROR] 04:36:09:060 Servidor/(5227:5227): Un cliente se desconecto.
+[INFO] 04:37:10:527 Servidor/(5292:5292): Servidor listo para recibir al cliente
+[ERROR] 04:37:16:855 Servidor/(5292:5292): Un cliente se desconecto.
